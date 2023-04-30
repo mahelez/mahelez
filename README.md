@@ -21,9 +21,11 @@ ___
 
 
 
-- :desktop_computer: My PC ...
+- :desktop_computer: My Setup ...
 
 >![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+>
+> Kolink Observatory Lite Mesh
 >
 > I5-12400F
 >
@@ -36,6 +38,14 @@ ___
 > WD_BLACK SN850X 1TB
 >
 > Samsung SSD 840 EVO 120GB
+>
+> AOC Gaming 27G2U/BK
+> 
+> Roccat Vulcan TKL Pro
+> 
+> Roccat Kain 100
+> 
+> HyperX Cloud Alpha
 
 
 
