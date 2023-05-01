@@ -15,7 +15,10 @@ ___
 >
 >Atom One Dark Theme,
 vscode-icons,
+Firacode Font,
+Live Server,
 GitLens
+
 
 ___
 
