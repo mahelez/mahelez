@@ -43,7 +43,7 @@
   <summary>:desktop_computer: My Setup ...</summary>
   <br>
   
-  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+  ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
   >
   > Kolink Observatory Lite Mesh
   >
