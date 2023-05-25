@@ -47,7 +47,7 @@
   >
   > Kolink Observatory Lite Mesh
   >
-  > I5-12400F
+  > Intel® Core™ i5-12400F
   >
   > Gigabyte GeForce RTX 3060 EAGLE OC
   >
