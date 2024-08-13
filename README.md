@@ -59,13 +59,13 @@
   >
   > Samsung SSD 840 EVO 120GB
   >
-  > AOC Gaming 27G2U/BK
+  > 2x LG Ultragear™ 27GP850P-B
   > 
   > Roccat Vulcan TKL Pro
   > 
   > Roccat Kain 100
   > 
-  > HyperX Cloud Alpha
+  > HyperX Cloud Alpha, Simgot EW200
 
 </details>
 
@@ -82,7 +82,7 @@
 
 
 <!--
-**leonmartinhess/leonmartinhess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mahelez/mahelez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
