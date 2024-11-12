@@ -51,7 +51,7 @@
   > 
   > Roccat Vulcan TKL Pro | Roccat Kain 100
   > 
-  > FATfreq x HBB Deuce | Simgot EW200
+  > FATfreq x HBB Deuce | Simgot EW200 | FiiO K11
 
 </details>
 
