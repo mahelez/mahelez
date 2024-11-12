@@ -18,21 +18,12 @@
 
 
 <details>
-  <summary>:atom: My editor ...</summary>
+  <summary>:atom: My editor(s) ...</summary>
   <br>
   
 
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  >
-  >Atom One Dark Theme
-  >
-  >vscode-icons
-  >
-  >Firacode Font
-  >
-  >Live Server
-  >
-  >GitLens
+  ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white)
+  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 </details>
 
@@ -43,9 +34,8 @@
   <summary>:desktop_computer: My Setup ...</summary>
   <br>
   
-  ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
-  >
-  > Kolink Observatory Lite Mesh
+  ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
+  ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white&logoSize=auto)
   >
   > Intel® Core™ i5-12400F
   >
@@ -55,17 +45,13 @@
   >
   > Corsair Vengeance LPX 16GB (2x8GB) DDR4 3600MHz
   >
-  > WD_BLACK SN850X 1TB
-  >
-  > Samsung SSD 840 EVO 120GB
+  > WD_BLACK SN850X 1TB | WD_BLACK SN770 1TB | Samsung SSD 840 EVO 120GB
   >
   > 2x LG Ultragear™ 27GP850P-B
   > 
-  > Roccat Vulcan TKL Pro
+  > Roccat Vulcan TKL Pro | Roccat Kain 100
   > 
-  > Roccat Kain 100
-  > 
-  > HyperX Cloud Alpha, Simgot EW200
+  > FATfreq x HBB Deuce | Simgot EW200
 
 </details>
 
