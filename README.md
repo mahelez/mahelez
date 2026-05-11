@@ -1,8 +1,3 @@
-<h1>My Git is selfhosted using Forgejo on:</h1>
-https://git.mahele.de/
-<br>
-<br>
-
 <details>
   <summary>:atom: My editor(s) ...</summary>
   <br>
@@ -12,8 +7,6 @@ https://git.mahele.de/
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 </details>
-
-
 
 <details>
   
@@ -35,8 +28,8 @@ https://git.mahele.de/
   >
   > 2x LG Ultragear™ 27GP850P-B
   > 
-  > Roccat Vulcan TKL Pro | Roccat Kain 100
+  > Roccat Vulcan TKL Pro | Endgame Gear XM2 8k v2
   > 
-  > FATfreq x HBB Deuce | Simgot EW200 | FiiO K11
+  > FATfreq x HBB Deuce |  FiiO K11
 
 </details>
